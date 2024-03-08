@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quote-box">
+        <h2>Quote of the Day</h2>
+        <blockquote id="quote">Quote Loading</blockquote>
+        <span id="author">Author Name loading</span>
+        <div>
+            <button onclick="getQuote(apiURL)">Next Quote</button>
+            <button onclick="threadsQuote()"><img src="threads.png" alt="threads-icon">Threads</button>
+        </div>
+    </div>
+    <script src="quoteGenerator.js"></script>
+</body>
+</html>
