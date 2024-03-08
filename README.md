@@ -6,4 +6,6 @@
 | 2. | [To Do App](ToDo-App) | [https://meetshah0258.github.io/JavaScript-Projects/ToDo-App/](https://meetshah0258.github.io/JavaScript-Projects/ToDo-App/) |
 | 3. | [Quiz App](Quiz-App) | [https://meetshah0258.github.io/JavaScript-Projects/Quiz-App/](https://meetshah0258.github.io/JavaScript-Projects/Quiz-App/) |
 | 4. | [Password Generator App](Password-Generator-App) | [https://meetshah0258.github.io/JavaScript-Projects/Password-Generator-App/](https://meetshah0258.github.io/JavaScript-Projects/Password-Generator-App/) |
-| 5. | [Age Calculator App](Age-Calculator-App) | [https://meetshah0258.github.io/JavaScript-Projects/Age-Calculator-App/](https://meetshah0258.github.io/JavaScript-Projects/Age-Calculator-App/)
+| 5. | [Age Calculator App](Age-Calculator-App) | [https://meetshah0258.github.io/JavaScript-Projects/Age-Calculator-App/](https://meetshah0258.github.io/JavaScript-Projects/Age-Calculator-App/) |
+| 6. | [Quote Generator App](Quote-Generator-App) | [https://meetshah0258.github.io/JavaScript-Projects/Quote-Generator-App/](https://meetshah0258.github.io/JavaScript-Projects/Quote-Generator-App/) |
+| 7. | [QR Code Generator App](QR-Code-Generator-App) | [https://meetshah0258.github.io/JavaScript-Projects/QR-Code-Generator-App/](https://meetshah0258.github.io/JavaScript-Projects/QR-Code-Generator-App/) |
