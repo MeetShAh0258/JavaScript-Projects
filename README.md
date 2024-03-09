@@ -9,3 +9,4 @@
 | 5. | [Age Calculator App](Age-Calculator-App) | [https://meetshah0258.github.io/JavaScript-Projects/Age-Calculator-App/](https://meetshah0258.github.io/JavaScript-Projects/Age-Calculator-App/) |
 | 6. | [Quote Generator App](Quote-Generator-App) | [https://meetshah0258.github.io/JavaScript-Projects/Quote-Generator-App/](https://meetshah0258.github.io/JavaScript-Projects/Quote-Generator-App/) |
 | 7. | [QR Code Generator App](QR-Code-Generator-App) | [https://meetshah0258.github.io/JavaScript-Projects/QR-Code-Generator-App/](https://meetshah0258.github.io/JavaScript-Projects/QR-Code-Generator-App/) |
+| 8. | [Toast Notification / Snack Bar](Toast-Notification) | [https://meetshah0258.github.io/JavaScript-Projects/Toast-Notification/](https://meetshah0258.github.io/JavaScript-Projects/Toast-Notification/) |
