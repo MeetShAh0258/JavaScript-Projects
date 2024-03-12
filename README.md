@@ -11,3 +11,4 @@
 | 7. | [QR Code Generator App](QR-Code-Generator-App) | [https://meetshah0258.github.io/JavaScript-Projects/QR-Code-Generator-App/](https://meetshah0258.github.io/JavaScript-Projects/QR-Code-Generator-App/) |
 | 8. | [Toast Notification / Snack Bar](Toast-Notification) | [https://meetshah0258.github.io/JavaScript-Projects/Toast-Notification/](https://meetshah0258.github.io/JavaScript-Projects/Toast-Notification/) |
 | 9. | [StopWatch](StopWatch-App) | [https://meetshah0258.github.io/JavaScript-Projects/StopWatch-App/](https://meetshah0258.github.io/JavaScript-Projects/StopWatch-App/) |
+| 10. | [Website Popup](Website-Popup) | [https://meetshah0258.github.io/JavaScript-Projects/Website-Popup/](https://meetshah0258.github.io/JavaScript-Projects/Website-Popup/) |
